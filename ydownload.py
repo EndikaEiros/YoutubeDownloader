@@ -3,7 +3,6 @@ import PIL.Image
 import PIL.ImageTk
 
 import os
-import glob
 import ffmpeg
 import pytube
 
